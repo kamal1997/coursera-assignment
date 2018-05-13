@@ -206,6 +206,7 @@ h1 {
 	border-style: solid;
 	border-color: black;
 	float: left;
+	margin-top : 20px;
 }
 
 }
@@ -279,6 +280,7 @@ h1 {
 	margin-right: 5px;
 	float: left;
 	margin-left: 60px;
+	margin-bottom : 20px;
 }
 
 #beef {
@@ -292,7 +294,7 @@ h1 {
 	border-color: black;
 	float: left;
 	margin-left: 60px;
-
+        margin-bottom : 20px;
 	
 }
 #sushi {
