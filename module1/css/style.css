@@ -1,0 +1,309 @@
+
+* {
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+h1 {
+	font-family: helvetica;
+	margin: 30px;
+	
+	font-style: bold;
+}
+
+
+
+
+#field {
+	font-family: helvetica;
+}
+
+
+
+/* for large devices */
+
+
+@media (min-width: 992px) {
+h1 {
+
+	color: black;
+	text-align: center;
+	margin-bottom: 80px;
+}
+
+#chick {
+	border:1px;
+	border-style: solid;
+	border-color: black;
+	margin-left: 70%;
+    width: 30%;
+    text-align: center;
+    background: pink;
+    
+
+
+}
+#bee {
+
+	border:1px;
+	border-style: solid;
+	border-color: black;
+     color: white;
+	background: red;
+    
+    
+	margin-left: 70%;
+    width: 30%;
+    text-align: center;
+	
+
+}
+#sush {
+	border:1px;
+	border-style: solid;
+	border-color: black;
+    
+	background: yellow;
+    
+	margin-left: 70%;
+    width: 30%;
+    text-align: center;
+	
+	
+
+}
+
+
+#chicken {
+	width: 30%;
+	border: 2px;
+	background: grey;
+	border-style: solid;
+	border-color: black;
+	margin-right: 5px;
+	float: left;
+	margin-left: 60px;
+}
+
+#beef {
+	width: 30%;
+	
+	border: 2px;
+	margin-right: 5px;
+	background: grey;
+	border-style: solid;
+	border-color: black;
+	float: left;
+
+	
+}
+#sushi {
+	width: 30%;
+
+	border: 2px;
+	background: grey;
+	border-style: solid;
+	border-color: black;
+	float: left;
+}
+
+
+}
+
+/* for medium devices */
+
+@media (min-width: 768px ) and (max-width: 991px) {
+
+
+
+	h1 {
+    font-size: 50px;
+	color: black;
+	text-align: center;
+	margin-bottom: 80px;
+	
+}
+
+#chick {
+	font-size: 125%;
+	border:1px;
+	border-style: solid;
+	border-color: black;
+	margin-left: 70%;
+    width: 30%;
+    text-align: center;	
+	
+    background: pink;
+    
+
+
+}
+#bee {
+     font-size: 125%;
+	border:1px;
+	border-style: solid;
+	border-color: black;
+     color: white;
+	background: red;
+    width: 71px;
+    
+	margin-left: 70%;
+    width: 30%;
+    text-align: center;	
+	
+
+}
+#sush {
+	font-size: 125%;
+	border:1px;
+	border-style: solid;
+	border-color: black;
+    
+	background: yellow;
+   
+
+	margin-left: 70%;
+    width: 30%;
+    text-align: center;
+	
+	
+
+}
+
+
+#chicken {
+	font-size: 150%;
+	width: 45%;
+	border: 2px;
+	background: grey;
+	border-style: solid;
+	border-color: black;
+	margin-right: 5px;
+	float: left;
+	margin-left: 60px;
+}
+
+#beef {
+	font-size: 150%;
+	width: 45%;
+	
+	border: 2px;
+	margin-right: 5px;
+	background: grey;
+	border-style: solid;
+	border-color: black;
+	float: left;
+
+	
+}
+#sushi {
+	font-size: 150%;
+	width: 90%;
+    margin-left: 60px;
+	border: 2px;
+	background: grey;
+	border-style: solid;
+	border-color: black;
+	float: left;
+}
+
+}
+
+/* for low devices */
+
+@media (max-width: 767px) {
+	h1 {
+    font-size: 50px;
+	color: black;
+	text-align: center;
+	margin-bottom: 80px;
+	
+}
+
+#chick {
+	background: pink;
+	font-size: 125%;
+	border:1px;
+	border-style: solid;
+	border-color: black;
+	margin-left: 70%;
+    width: 30%;
+    text-align: center;
+	
+	
+    
+   
+
+
+}
+#bee {
+     font-size: 125%;
+	border:1px;
+	border-style: solid;
+	border-color: black;
+     color: white;
+	background: red;
+   
+    
+	margin-left: 70%;
+    width: 30%;
+    text-align: center;
+	
+
+}
+#sush {
+	font-size: 125%;
+	border:1px;
+	border-style: solid;
+	border-color: black;
+    
+	background: yellow;
+    
+
+	margin-left: 70%;
+    width: 30%;
+    text-align: center;
+	
+
+}
+
+
+#chicken {
+	font-size: 150%;
+	width: 90%;
+	border: 2px;
+	background: grey;
+	border-style: solid;
+	border-color: black;
+	margin-right: 5px;
+	float: left;
+	margin-left: 60px;
+}
+
+#beef {
+	font-size: 150%;
+	width: 90%;
+	
+	border: 2px;
+	margin-right: 5px;
+	background: grey;
+	border-style: solid;
+	border-color: black;
+	float: left;
+	margin-left: 60px;
+
+	
+}
+#sushi {
+	font-size: 150%;
+	width: 90%;
+    margin-left: 60px;
+	border: 2px;
+	background: grey;
+	border-style: solid;
+	border-color: black;
+	float: left;
+	margin-left: 60px;
+}	
+}
