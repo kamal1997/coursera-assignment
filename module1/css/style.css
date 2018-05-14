@@ -126,7 +126,7 @@ h1 {
 }
 
 #chick {
-	font-size: 125%;
+
 	border:1px;
 	border-style: solid;
 	border-color: black;
@@ -140,8 +140,7 @@ h1 {
 
 }
 #bee {
-     font-size: 125%;
-	border:1px;
+     	border:1px;
 	border-style: solid;
 	border-color: black;
      color: white;
@@ -155,7 +154,7 @@ h1 {
 
 }
 #sush {
-	font-size: 125%;
+	
 	border:1px;
 	border-style: solid;
 	border-color: black;
@@ -173,7 +172,7 @@ h1 {
 
 
 #chicken {
-	font-size: 150%;
+	
 	width: 45%;
 	border: 2px;
 	background: grey;
@@ -185,7 +184,7 @@ h1 {
 }
 
 #beef {
-	font-size: 150%;
+	
 	width: 45%;
 	
 	border: 2px;
@@ -198,7 +197,7 @@ h1 {
 	
 }
 #sushi {
-	font-size: 150%;
+	
 	width: 90%;
     margin-left: 60px;
 	border: 2px;
@@ -224,7 +223,7 @@ h1 {
 
 #chick {
 	background: pink;
-	font-size: 125%;
+	
 	border:1px;
 	border-style: solid;
 	border-color: black;
@@ -239,8 +238,7 @@ h1 {
 
 }
 #bee {
-     font-size: 125%;
-	border:1px;
+     	border:1px;
 	border-style: solid;
 	border-color: black;
      color: white;
@@ -254,7 +252,7 @@ h1 {
 
 }
 #sush {
-	font-size: 125%;
+	
 	border:1px;
 	border-style: solid;
 	border-color: black;
@@ -271,24 +269,24 @@ h1 {
 
 
 #chicken {
-	font-size: 150%;
+	
 	width: 90%;
 	border: 2px;
 	background: grey;
 	border-style: solid;
 	border-color: black;
-	margin-right: 5px;
+	margin-right: 10%;
 	float: left;
 	margin-left: 60px;
 	margin-bottom : 20px;
 }
 
 #beef {
-	font-size: 150%;
+	
 	width: 90%;
 	
 	border: 2px;
-	margin-right: 5px;
+
 	background: grey;
 	border-style: solid;
 	border-color: black;
@@ -298,9 +296,8 @@ h1 {
 	
 }
 #sushi {
-	font-size: 150%;
-	width: 90%;
-    margin-left: 60px;
+        width: 100%;
+        margin-left: 60px;
 	border: 2px;
 	background: grey;
 	border-style: solid;
