@@ -1,0 +1,77 @@
+
+body {
+	background-color: #ff9966;
+	font-family: helvetica
+}
+.navbar-brand {
+	margin-top: -25px;
+	margin-bottom: 40px;
+	margin-left: auto;
+	
+}
+.navbar-brand a  h1{
+	text-transform: uppercase;
+	font-family: 'Headland One', serif;
+
+}{
+
+}
+.navbar-brand a:hover ,.navbar-brand a:active {
+	color:yellow;
+    text-decoration: none;
+} 
+.container {
+	margin-left: 10px;
+
+}
+
+
+#header-nav {
+	background-color: #ffffff;
+	border-radius: 0;
+	border:0;
+}
+#nav-list li {
+	text-transform: uppercase;
+	color: white;
+	font-family: 'Patrick Hand', cursive;
+	font-size: 20px; 
+}
+#nav-list li a:hover,#nav-list li a:active {
+background-color: blue;
+}
+#nav-list li a span {
+	font-size: 2em;
+}
+#items {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+#menuhead {
+	font-family: 'Patrick Hand', cursive;
+	margin-bottom: 40px;
+}
+#Chicken {
+ background-color:#800000;
+ color: white;
+ margin-bottom: 60px;
+
+
+}
+#Chickh ,#befe ,#sus {
+	margin-bottom: 20px;
+	font-size: 30px;
+	font-family: 'Abril Fatface', cursive;
+	color: #339933;
+}
+#Beef {
+	background-color: #cc6600;
+	color: white;
+	margin-bottom: 60px;
+}
+#Sushi {
+	background-color: #333300;
+	color: white;
+	margin-bottom: 60px;
+}
+
